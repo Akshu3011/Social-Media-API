@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-media-api",
+  "description": "![License badge](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshu3011/Social-Media-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshu3011/Social-Media-API/issues"
+  },
+  "homepage": "https://github.com/Akshu3011/Social-Media-API#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0"
+  }
+}
